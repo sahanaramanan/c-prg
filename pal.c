@@ -3,7 +3,7 @@ int main()
 {
    int number, reminder = 0, total;
    printf("Enter an integer to check if it is palindrome or not\n");
-   scanf("%d", &n);
+   scanf("%d", &number);
    total = number;
    while (total != 0)
    {
